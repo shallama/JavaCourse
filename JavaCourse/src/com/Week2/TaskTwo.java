@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.Vector;
+package com.Week2;
 
 public class TaskTwo {
     private double x;

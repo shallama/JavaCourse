@@ -1,4 +1,4 @@
-package com.company;
+package com.Week2;
 
 public class TaskFive {
     double[] ar = new double[2];

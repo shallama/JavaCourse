@@ -1,4 +1,4 @@
-package com.company;
+package com.Week2;
 
 public class TaskOne {
     int f = 5;
